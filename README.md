@@ -35,11 +35,6 @@
 
 ---
 
-## Contents
-
-The release currently includes **7 scripts** for NVMe device testing.
-
----
 
 ## How to Use
 
